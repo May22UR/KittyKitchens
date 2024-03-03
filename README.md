@@ -34,3 +34,11 @@ If you'd like to contribute to this project, please follow these guidelines:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+03 march 2024:
+##task 1:
+analysis the restro websites get patterns like navbar, effects of navbar, banners, photos whicbh used in it, 
+create figma layout based on the analysis
+example website: https://www.spiceklub.com/
+extract data from in it which is mentioned above writing contents.
+ completion date : 05 march 2024 7pm
